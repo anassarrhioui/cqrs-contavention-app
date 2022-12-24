@@ -21,7 +21,6 @@ import java.util.stream.Collectors;
 public class OverSpeedEventHandler {
 
     private final CommandGateway commandGateway;
-    private EventStore eventStore;
 
 
     @EventHandler
