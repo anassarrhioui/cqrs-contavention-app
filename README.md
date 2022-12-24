@@ -8,7 +8,9 @@
 
 
 ## Structure du projet
-![S](Screens/Screenshot%20from%202022-12-24%2015-03-28.png)
+![S](Screens/Screenshot%20from%202022-12-24%2021-42-48.png)
+
+![S](Screens/Screenshot%20from%202022-12-24%2021-43-08.png)
 
 ## Application
 ![S](Screens/Screenshot%20from%202022-12-24%2015-25-19.png)
